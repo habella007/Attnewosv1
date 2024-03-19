@@ -1,12 +1,3 @@
-<!-- saved from url=(66510)//-->
-</script>
-
-<script type="text/javascript">
-var startTime = new Date().getTime();
-var loadTime = null;
-alert("Ooops! Your Session as Expired! Click OK And Sign In To Continue. Thank You");
-</script>
-
 <!DOCTYPE html> <html lang=en><!--
  Page saved with SingleFile 
  url: https://signin.att.com/dynamic/iamLRR/LrrController?IAM_OP=login&appName=m40842&loginSuccessURL=https%3A%2F%2Foidc.idp.clogin.att.com%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3D203F7Geroe%26redirect_uri%3Dhttps%253A%252F%252Fatt-yahoo.att.net%252Fisam%252Fsps%252Foidc%252Frp%252FATT-HBO-RP%252Fredirect%252FYahoo%26response_mode%3Dform_post%26alt_dest%3Dhttps%25253A%25252F%25252Fatt-yahoo.att.net%25252FFIM%25252Fsps%25252Fauth%25253FPartnerId%25253Dhttps%2525253A%2525252F%2525252Flogin.yahoo.com%2525252Fsaml2%26scope%3Dopenid%26response_type%3Did_token%26state%3Dqj1lXHEq1y%26client_id%3Dm40842 
